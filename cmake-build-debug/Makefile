@@ -128,6 +128,150 @@ Edificio/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/build
 .PHONY : Edificio/fast
 
+Edificio.obj: Edificio.cpp.obj
+.PHONY : Edificio.obj
+
+# target to build an object file
+Edificio.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Edificio.cpp.obj
+.PHONY : Edificio.cpp.obj
+
+Edificio.i: Edificio.cpp.i
+.PHONY : Edificio.i
+
+# target to preprocess a source file
+Edificio.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Edificio.cpp.i
+.PHONY : Edificio.cpp.i
+
+Edificio.s: Edificio.cpp.s
+.PHONY : Edificio.s
+
+# target to generate assembly for a file
+Edificio.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Edificio.cpp.s
+.PHONY : Edificio.cpp.s
+
+Fundador.obj: Fundador.cpp.obj
+.PHONY : Fundador.obj
+
+# target to build an object file
+Fundador.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Fundador.cpp.obj
+.PHONY : Fundador.cpp.obj
+
+Fundador.i: Fundador.cpp.i
+.PHONY : Fundador.i
+
+# target to preprocess a source file
+Fundador.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Fundador.cpp.i
+.PHONY : Fundador.cpp.i
+
+Fundador.s: Fundador.cpp.s
+.PHONY : Fundador.s
+
+# target to generate assembly for a file
+Fundador.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Fundador.cpp.s
+.PHONY : Fundador.cpp.s
+
+Propiedad.obj: Propiedad.cpp.obj
+.PHONY : Propiedad.obj
+
+# target to build an object file
+Propiedad.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Propiedad.cpp.obj
+.PHONY : Propiedad.cpp.obj
+
+Propiedad.i: Propiedad.cpp.i
+.PHONY : Propiedad.i
+
+# target to preprocess a source file
+Propiedad.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Propiedad.cpp.i
+.PHONY : Propiedad.cpp.i
+
+Propiedad.s: Propiedad.cpp.s
+.PHONY : Propiedad.s
+
+# target to generate assembly for a file
+Propiedad.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Propiedad.cpp.s
+.PHONY : Propiedad.cpp.s
+
+Propietario.obj: Propietario.cpp.obj
+.PHONY : Propietario.obj
+
+# target to build an object file
+Propietario.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Propietario.cpp.obj
+.PHONY : Propietario.cpp.obj
+
+Propietario.i: Propietario.cpp.i
+.PHONY : Propietario.i
+
+# target to preprocess a source file
+Propietario.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Propietario.cpp.i
+.PHONY : Propietario.cpp.i
+
+Propietario.s: Propietario.cpp.s
+.PHONY : Propietario.s
+
+# target to generate assembly for a file
+Propietario.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Propietario.cpp.s
+.PHONY : Propietario.cpp.s
+
+Reventa.obj: Reventa.cpp.obj
+.PHONY : Reventa.obj
+
+# target to build an object file
+Reventa.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Reventa.cpp.obj
+.PHONY : Reventa.cpp.obj
+
+Reventa.i: Reventa.cpp.i
+.PHONY : Reventa.i
+
+# target to preprocess a source file
+Reventa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Reventa.cpp.i
+.PHONY : Reventa.cpp.i
+
+Reventa.s: Reventa.cpp.s
+.PHONY : Reventa.s
+
+# target to generate assembly for a file
+Reventa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/Reventa.cpp.s
+.PHONY : Reventa.cpp.s
+
+View.obj: View.cpp.obj
+.PHONY : View.obj
+
+# target to build an object file
+View.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/View.cpp.obj
+.PHONY : View.cpp.obj
+
+View.i: View.cpp.i
+.PHONY : View.i
+
+# target to preprocess a source file
+View.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/View.cpp.i
+.PHONY : View.cpp.i
+
+View.s: View.cpp.s
+.PHONY : View.s
+
+# target to generate assembly for a file
+View.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Edificio.dir\build.make CMakeFiles/Edificio.dir/View.cpp.s
+.PHONY : View.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +305,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Edificio
+	@echo ... Edificio.obj
+	@echo ... Edificio.i
+	@echo ... Edificio.s
+	@echo ... Fundador.obj
+	@echo ... Fundador.i
+	@echo ... Fundador.s
+	@echo ... Propiedad.obj
+	@echo ... Propiedad.i
+	@echo ... Propiedad.s
+	@echo ... Propietario.obj
+	@echo ... Propietario.i
+	@echo ... Propietario.s
+	@echo ... Reventa.obj
+	@echo ... Reventa.i
+	@echo ... Reventa.s
+	@echo ... View.obj
+	@echo ... View.i
+	@echo ... View.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -8,6 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Edificio.cpp" "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir/Edificio.cpp.obj"
+  "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Fundador.cpp" "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir/Fundador.cpp.obj"
+  "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Propiedad.cpp" "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir/Propiedad.cpp.obj"
+  "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Propietario.cpp" "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir/Propietario.cpp.obj"
+  "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Reventa.cpp" "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir/Reventa.cpp.obj"
+  "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/View.cpp" "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir/View.cpp.obj"
   "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/main.cpp" "C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

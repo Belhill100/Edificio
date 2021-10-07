@@ -80,6 +80,42 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Edificio.cpp">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Edificio.h">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Fundador.cpp">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Fundador.h">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Propiedad.cpp">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Propiedad.h">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Propietario.cpp">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Propietario.h">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Reventa.cpp">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/Reventa.h">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/View.cpp">
+			<Option target="Edificio"/>
+		</Unit>
+		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/View.h">
+			<Option target="Edificio"/>
+		</Unit>
 		<Unit filename="C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/main.cpp">
 			<Option target="Edificio"/>
 		</Unit>
