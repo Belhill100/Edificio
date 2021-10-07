@@ -11,7 +11,7 @@ private:
 public:
     virtual void mostrarBeneficios() = 0;
     Propiedad getPropiedad();
-    void setPropiedad(propiedad);
+    void setPropiedad(Propiedad propiedad);
 };
 
 

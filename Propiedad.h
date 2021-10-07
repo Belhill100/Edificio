@@ -12,10 +12,10 @@ using std::string;
 class Propiedad {
 private:
     int piso, numero;
-    float area;
+    float area, valorBaseAdmin = 10;
     bool parqueadero;
 public:
-    float calcularAdministración(ValorBaseAdmin);
+    float calcularAdministración(int valorBaseAdmin);
 };
 
 

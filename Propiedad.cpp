@@ -1,5 +1,5 @@
 #include "Propiedad.h"
 
-float Propiedad::calcularAdministracion(ValorBaseAdmin) {
-    return 0;
+float Propiedad::calcularAdministración(int valorBaseAdmin) {
+    return valorBaseAdmin;
 }
