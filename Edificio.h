@@ -20,7 +20,7 @@ private:
     vector<Propietario*> propietarios;
     float valorBaseAdmin;
 public:
-
+    void recaudarAdministración();
 };
 
 

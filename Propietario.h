@@ -10,6 +10,8 @@ private:
     Propiedad propiedad;
 public:
     virtual void mostrarBeneficios() = 0;
+    Propiedad getPropiedad();
+    void setPropiedad(propiedad);
 };
 
 
