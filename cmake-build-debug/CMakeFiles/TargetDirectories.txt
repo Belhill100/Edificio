@@ -1,0 +1,3 @@
+C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/Edificio.dir
+C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ecoll/OneDrive/Escritorio/Tercer Semestre/Programacion Orientada a Objetos/Edificio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
